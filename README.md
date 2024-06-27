@@ -7,7 +7,7 @@ Currently, I'm gaining hands-on experience with Python & Django technology at Ne
 - **Degree:** Bachelor of computer application
 - In silver oak university 
 ## Skills :rocket:
-- **Programming Languages:** Python
+- **Programming Languages:** PYTHON, HTML, CSS 
 - **Technologies:** Django MySQL
 - **Other Skills:** Problem Solving, Team Collaboration
 ## Learning Journey :seedling:
